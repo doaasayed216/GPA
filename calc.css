@@ -1,0 +1,23 @@
+body{
+	background-color: #91d18b;
+}
+div{
+	width: 500px;
+	margin: auto;
+	margin-top: 12%;
+	background-color: #FFF;
+	padding: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1{
+	color: #91d18b;
+	margin-bottom: 30px;
+}
+
+.label{
+	color: #767c77;
+	margin-right: 30px;
+	font-weight: bold;
+	font-size: 20px;
+}
